@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jakenuts-mcp-cli-exec-badge.png)](https://mseep.ai/app/jakenuts-mcp-cli-exec)
+
 # mcp-cli-exec MCP Server
 
 A powerful CLI command execution MCP server that enables running shell commands with structured output. This package focuses specifically on command execution functionality, differentiating it from other MCP CLI tools.
